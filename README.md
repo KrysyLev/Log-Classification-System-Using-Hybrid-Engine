@@ -22,6 +22,7 @@ This project delivers a **hybrid log classification system** that blends three c
 📌 System Architecture:
 
 ![architecture](resources/arch.png)
+![Fastapi](resources/FastAPI_Demo.png)
 
 ---
 
@@ -70,4 +71,3 @@ The response will be a CSV file with an added `target_label` column, indicating 
 
 ---
 
-![Fastapi](resources/FastAPI_Demo.png)
