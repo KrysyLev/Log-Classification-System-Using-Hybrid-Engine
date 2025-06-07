@@ -59,7 +59,6 @@ This project delivers a **hybrid log classification system** that blends three c
     - `http://127.0.0.1:8000/redoc` (ReDoc UI) 📘
 
 ---
-![Fastapi](resources/FastAPI_Demo.png)
 
 ## How to Use 📤
 
@@ -70,3 +69,5 @@ Upload a CSV file with logs to the FastAPI endpoint for classification. The CSV 
 The response will be a CSV file with an added `target_label` column, indicating the predicted label for each log entry.
 
 ---
+
+![Fastapi](resources/FastAPI_Demo.png)
