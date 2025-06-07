@@ -59,6 +59,7 @@ This project delivers a **hybrid log classification system** that blends three c
     - `http://127.0.0.1:8000/redoc` (ReDoc UI) 📘
 
 ---
+![Fastapi](resources/FastAPI_Demo.png)
 
 ## How to Use 📤
 
